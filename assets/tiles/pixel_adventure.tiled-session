@@ -1,0 +1,59 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_02.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "level_01.tmx": {
+            "expandedObjectLayers": [
+                2,
+                3
+            ],
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 529.5,
+                "y": 185
+            }
+        },
+        "level_02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.14,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 347.8070175438597,
+                "y": 179.8245614035088
+            }
+        },
+        "pixel_adveture.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "last.imagePath": "D:/games_project/pixel_adventure/pixel_adventure/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "level_01.tmx",
+        "level_02.tmx"
+    ],
+    "project": "pixel_adventure.tiled-project",
+    "property.type": "float",
+    "recentFiles": [
+        "level_01.tmx",
+        "level_02.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
